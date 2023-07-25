@@ -1,0 +1,5 @@
+__pycache__/
+src/.gnupg
+src/receiver.txt
+src/sender.txt
+src/sender.txt.sig

@@ -1,5 +1,7 @@
 # University: Bachelor Semester Project 1 (09.2022 – 02.2023)
 
+https://github.com/trueNAHO/university-bachelor-semester-project-1/assets/90870942/978a389d-a88b-47c4-939d-c2823bbce475
+
 - [About](#about)
 - [Requirements](#requirements)
 - [Usage](#usage)
